@@ -1,18 +1,18 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
+title: Samwel Charles
+description: Code Vs Chords
+author: Samwel Charles
 logo: /static/img/avatar.png
 github: https://github.com/ashutosh2k12
 about: Freelance developer
 
 baseurl: ""
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+url: "younggeeks.github.io"
 
 disqus_shortname: aboutashu
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \#
+  twitter_username: \samjunior101
   fb_appid: 000000000000
 
 
