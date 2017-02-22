@@ -3,16 +3,16 @@ description: Code Vs Chords
 author: Samwel Charles
 logo: /static/img/profile.jpg
 github: https://github.com/younggeeks
-about: Freelance developer
+about: Fullstack developer
 
 baseurl: ""
 url: "younggeeks.github.io"
 
-disqus_shortname: aboutashu
+disqus_shortname: disqus_VgOWny6If1
 google_analytics: UA-72862926-1
 
 share:
-  twitter_username: \samjunior101
+  twitter_username: samjunior101
   fb_appid: 000000000000
 
 
